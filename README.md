@@ -4,9 +4,7 @@ Hola, este es mi nuevo repositorio donde enseñaré como hacer un bot 24/7 en ht
 
 Bliotecas usadas:
 
-pip install discord.py
-pip install keepAlive
-pip install Flask
+discord.py keepAlive y Flask
 
 Explicaciones:
 
