@@ -14,8 +14,7 @@ Explicaciones:
 
 ***Después crearemos un evento donde enviará un mensaje a la consola diciendo 'Bot Encendio', esto indicará que el bot ya está encedido.***
 
-***Crearemos un archivo llamado keep_alive.py y ahí pondremos el código que está en este repositorio. Una vez ya echo eso pondremos justo arriba del client.run ***
-keep_alive.keep_alive()
+***Crearemos un archivo llamado keep_alive.py y ahí pondremos el código que está en este repositorio. Una vez ya echo eso pondremos justo arriba del client.run keep_alive.keep_alive()***
 
 ***Una vez echo eso ya le podremos dar al botón verde que dice 'Run'.***
 
