@@ -8,5 +8,5 @@ client = discord.Bot(command_prefix='.')
 async def on_ready():
   print('Bot Encendido.')
   
-keep_alive.keep_alive
+keep_alive.keep_alive()
 client.run('token de tu bot')
